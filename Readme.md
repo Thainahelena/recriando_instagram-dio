@@ -11,7 +11,7 @@
 </h2>
 
 ## 📚 Sobre
-------------
+
 <p align="justify">Repositório dedicado a resoluções de todos os exercícios propostos para execução do Projeto: Recriando a Página Inicial do Instagram contido no **BootCamp Everis FullStack Developer da Digital Innovation One**. O projeto foi ministrado por Gabriela Pinheiro, Professora e Front-End Engineer, em outubro de 2020. Para o desenvolvimento do projeto utilizou-se as linguagens HTML5 e CSS3 através do editor, Visual Studio Code, com a finalidade de abordar o conceito de CSS Flexbox e Responsividade.</p>
 
 <p align="justify">A partir das aulas, solucionei os desafios e acrescentei novas funções.</p>
@@ -20,7 +20,7 @@
 
 
 ## 🚀 Tecnologias Utilizadas
-------------
+
 O projeto foi desenvolvido a partir das tecnologias:
 
 - *HTML5*
@@ -28,7 +28,7 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 
 ## 📚 About
-------------
+
 *<p align="justify">Dedicated repository to solving all the exercises proposed for the Project Execution: Recreating the Instagram Homepage, contained in **Digital Innovation One's BootCamp, Everis FullStack Developer**. The project was taught by Gabriela Pinheiro, Professor and Front-End Engineer, in October 2020. For the project development, HTML5 and CSS3 languages ​​are used through the editor, Visual Studio Code, with the right to address the concept of CSS Flexbox and Responsiveness.</p>*
 
 *From the basic classes, I solved the challenges and added new functions.*
@@ -37,7 +37,7 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 
 ## 🚀 Technologies Used:
-------------
+
 *The project was developed based on technologies:*
 
 - *HTML5*
