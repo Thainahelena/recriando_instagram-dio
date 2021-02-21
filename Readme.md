@@ -1,25 +1,28 @@
 <h1> 
-    Digital Innovation One - Projeto Recriando a Página Inicial do Instagram
+    Projeto Recriando a Página Inicial do Instagram - DIO 
 </h1>
 
-<h2 align="center">
-<img src="https://i.imgur.com/nMtQKJN.png">
-</h2>
+<p align="center">
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about">About</a>
+</p>
 
-<h2 align="center">
-    <a href="https://www.facebook.com/digitalinnovationone" target="_blank"><img class="link" src="https://i.imgur.com/s9wDAAI.png?1"></a> <a href="https://www.youtube.com/results?search_query=digital+innovation+one" target="_blank"><img class="link" src="https://i.imgur.com/zG40AZC.png?1"></a> <a href="https://twitter.com/dio4tech" target="_blank"><img class="link" src="https://i.imgur.com/0Xfla8g.png?1"></a> <a href="https://web.digitalinnovation.one/" target="_blank"><img class="link" src="https://i.imgur.com/skUash9.png?1"></a>
-</h2>
+<p align="center">
+<img src="https://i.imgur.com/nMtQKJN.png">
+</p>
+
+<p align="center">
+    <a href="https://www.facebook.com/digitalinnovationone" target="_blank"><img class="link" src="https://i.imgur.com/s9wDAAI.png?1" width="30rem"></a> <a href="https://www.youtube.com/results?search_query=digital+innovation+one" target="_blank"><img class="link" src="https://i.imgur.com/zG40AZC.png?1" width="30rem"></a> <a href="https://twitter.com/dio4tech" target="_blank"><img class="link" src="https://i.imgur.com/0Xfla8g.png?1" width="30rem"></a> <a href="https://web.digitalinnovation.one/" target="_blank"><img class="link" src="https://i.imgur.com/skUash9.png?1" width="30rem"></a>
+</p>
 
 ## 📚 Sobre
 
-<p align="justify">Repositório dedicado a resoluções de todos os exercícios propostos para execução do Projeto: Recriando a Página Inicial do Instagram contido no **BootCamp Everis FullStack Developer da Digital Innovation One**. O projeto foi ministrado por Gabriela Pinheiro, Professora e Front-End Engineer, em outubro de 2020. Para o desenvolvimento do projeto utilizou-se as linguagens HTML5 e CSS3 através do editor, Visual Studio Code, com a finalidade de abordar o conceito de CSS Flexbox e Responsividade.</p>
+<p align="justify">Repositório dedicado a resoluções de todos os exercícios propostos para execução do Projeto: Recriando a Página Inicial do Instagram contido no **BootCamp Everis FullStack Developer da Digital Innovation One**. O projeto foi ministrado por Gabriela Pinheiro, Professora e Front-End Engineer, em outubro de 2020. The project aims to address the concept of CSS Flexbox and Responsiveness.</p>
 
-<p align="justify">A partir das aulas, solucionei os desafios e acrescentei novas funções.</p>
+*Para ter acesso a este conteúdo, acesse a [**DIO**](https://web.digitalinnovation.one)*                                  
 
-*Para ter acesso a este conteúdo, acesse: https://web.digitalinnovation.one*                                  
-
-
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias
 
 O projeto foi desenvolvido a partir das tecnologias:
 
@@ -33,10 +36,10 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 *From the basic classes, I solved the challenges and added new functions.*
 
-*To access this content, visit: https://web.digitalinnovation.one/*                                  
+*To access this content, visit [**DIO**](https://web.digitalinnovation.one/)*                                  
 
 
-## 🚀 Technologies Used:
+## 🚀 Technologies
 
 *The project was developed based on technologies:*
 
