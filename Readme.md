@@ -18,7 +18,7 @@
 
 ## 📚 Sobre
 
-<p align="justify">Repositório dedicado a resoluções de todos os exercícios propostos para execução do Projeto: Recriando a Página Inicial do Instagram contido no BootCamp Everis FullStack Developer da Digital Innovation One. O projeto foi ministrado por Gabriela Pinheiro, Professora e Front-End Engineer, em outubro de 2020. The project aims to address the concept of CSS Flexbox and Responsiveness.</p>
+<p align="justify">Repositório dedicado a resoluções de todos os exercícios propostos para execução do Projeto: Recriando a Página Inicial do Instagram contido no **BootCamp Everis FullStack Developer da Digital Innovation One**. O projeto foi ministrado por Gabriela Pinheiro, Professora e Front-End Engineer, em outubro de 2020. The project aims to address the concept of CSS Flexbox and Responsiveness.</p>
 
 *Para ter acesso a este conteúdo, acesse a [**DIO**](https://web.digitalinnovation.one)*                                  
 
@@ -33,8 +33,6 @@ O projeto foi desenvolvido a partir das tecnologias:
 ## 📚 About
 
 *<p align="justify">Dedicated repository to solving all the exercises proposed for the Project Execution: Recreating the Instagram Homepage, contained in **Digital Innovation One's BootCamp, Everis FullStack Developer**. The project was taught by Gabriela Pinheiro, Professor and Front-End Engineer, in October 2020. The project aims to address the concept of CSS Flexbox and Responsiveness.</p>*
-
-*From the basic classes, I solved the challenges and added new functions.*
 
 *To access this content, visit [**DIO**](https://web.digitalinnovation.one/)*                                  
 
