@@ -1,4 +1,4 @@
-<h1> 
+<h1 align="center"> 
     Projeto Recriando a Página Inicial do Instagram - DIO 
 </h1>
 
@@ -32,7 +32,7 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 ## 📚 About
 
-*<p align="justify">Dedicated repository to solving all the exercises proposed for the Project Execution: Recreating the Instagram Homepage, contained in **Digital Innovation One's BootCamp, Everis FullStack Developer**. The project was taught by Gabriela Pinheiro, Professor and Front-End Engineer, in October 2020. For the project development, HTML5 and CSS3 languages ​​are used through the editor, Visual Studio Code, with the right to address the concept of CSS Flexbox and Responsiveness.</p>*
+*<p align="justify">Dedicated repository to solving all the exercises proposed for the Project Execution: Recreating the Instagram Homepage, contained in **Digital Innovation One's BootCamp, Everis FullStack Developer**. The project was taught by Gabriela Pinheiro, Professor and Front-End Engineer, in October 2020. The project aims to address the concept of CSS Flexbox and Responsiveness.</p>*
 
 *From the basic classes, I solved the challenges and added new functions.*
 
